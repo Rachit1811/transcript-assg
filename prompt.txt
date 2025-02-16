@@ -1,0 +1,54 @@
+Tell instances from the transcript provided which satisfy(or not satisfy) the following scoring criteria for the three different parameters mentioned. the output will be of the form:
+1. Ideal Customer Profile Fitment: give instances from the transcript provided which relates to the given scoring criteria
+2. Need and Timing: 
+3. Budget and Authority: 
+
+Get strictly straight to the point, and generate the desired output
+1. Ideal Customer Profile Fitment (Score 0-2)
+Score 0:
+
+The company’s size is outside the ideal target ( sells fewer than 50 cars/month strictly, has unknown sales data, or has no growth potential).
+The lead does not belong to the automotive industry (not an Automotive Dealer).
+Score 1:
+
+The company is within the ideal target (e.g., sells more than 50 cars/month and has potential for growth).
+The lead is a junior manager or influencer, not the primary decision-maker. (e.g., not CXOs, Owners, General Managers, VP Marketing, Group Marketing Manager, or Dealer Principal).
+The lead’s industry is automotive, but they are not directly responsible for dealership operations.
+Score 2:
+
+The company is within the ideal target (e.g., sells more than 50 cars/month).
+The lead is a key decision-maker (CXO, Owner, General Manager, VP Marketing, Group Marketing Manager, Dealer Principal).
+The lead is actively involved in the automotive dealership business.
+2. Need and Timing (Score 0-2)
+Score 0:
+
+The lead has no clear pain points or their problems do not align with the offered solution.
+There is no urgency, and the lead has no timeline for addressing their challenges.
+The lead is only gathering general information with no clear purchasing intent.
+Score 1:
+
+The lead has some pain points, but they are unclear or vaguely defined. ( Describes workflow issues but doesn’t directly mention how the solution would help).
+The urgency is low (lead is considering a solution but has no plans to act within 2 months).
+The lead is interested but still in the early research phase and not actively evaluating vendors.
+Score 2:
+
+The lead has clearly identified pain points related to the solution ( mentions inefficiencies, performance issues, or challenges that impact business operations).
+There is high urgency, and the lead wants a solution within 2 months.
+The lead is actively comparing vendors with a strong intent to move forward soon.
+3. Budget and Authority (Score 0-2)
+Score 0:
+
+The lead has no decision-making authority ( all contacts are junior-level employees with no influence).
+There is no budget allocated for this type of solution. ( company is not aware of required budget or has no funds for this category).
+Score 1:
+
+The lead has limited authority ( junior manager or departmental head) and needs approval from higher-ups.
+The lead has full authority but the budget is unclear or not yet allocated.
+The lead has some knowledge of the purchasing process but is unsure about the next steps.
+Score 2:
+
+The lead has full authority (CXO, Owner, General Manager, VP Marketing, Group Marketing Manager, Dealer Principal).
+A budget is allocated and aligned with the required pricing.
+The lead understands the purchasing process and is ready to act immediately.
+
+Transcript:
