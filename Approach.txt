@@ -1,0 +1,27 @@
+Since this problem involves analyzing natural language transcripts, I initially explored Natural Language Processing (NLP) techniques to determine whether specific conversations aligned with the client's criteria. I experimented with Spacy and other NLP libraries to classify conversations based on predefined conditions.
+
+However, this approach quickly ran into several challenges:
+
+High computational cost – Running text classification on large transcripts was time-consuming.
+Lack of accuracy – The NLP models struggled with contextual understanding, failing to classify conversations correctly.
+Due to these limitations, I realized that I needed a large language model (LLM) that could handle long-form text while capturing contextual dependencies.
+
+Exploring Open-Source Models
+I tested several open-source LLMs, including:
+
+DeepSeek 7B (DEEP67B) – Deployed on a server in my college but failed due to input token constraints.
+Smaller models (<1B parameters) – Had limited token capacity and poor performance on long-context classification.
+Even with Sliding Window & Chunking techniques, the models couldn't generate meaningful results due to the lack of long-term dependency retention.
+
+Final Solution – API-Based Prompting
+Since open-source models had token limitations, I pivoted to API-based solutions that could process long-context transcripts efficiently.
+
+I chose the DeepSeek R1 Free API via OpenRouter, as it:
+✅ Supports longer input token limits
+✅ Captures long-term dependencies in conversations
+✅ Provides structured and accurate classifications
+
+I implemented this by fetching the API, structuring the prompts, and automating the classification process, ensuring that the conversations were correctly categorized based on the given criteria.
+
+Why This Works Best?
+DeepSeek R1 API outperforms local models by handling long-text efficiently, making it the best fit for this problem.
