@@ -1,0 +1,289 @@
+<<<<<<< HEAD
+Start Time: 00:00:02
+Speaker: John (Seller: False)
+Text: Hello, can you hear me?
+
+Start Time: 00:00:04
+Speaker: Sarah (Seller: True)
+Text: Yes, John. I can hear you clearly. How are you today?
+
+Start Time: 00:00:08
+Speaker: John (Seller: False)
+Text: I'm doing well, thanks. Ready to discuss your product offering.
+
+Start Time: 00:00:13
+Speaker: Sarah (Seller: True)
+Text: Great! Before we dive in, could you tell me a bit about your current setup and what you're looking for?
+
+Start Time: 00:00:20
+Speaker: John (Seller: False)
+Text: Sure. We're a mid-sized dealership, selling about 75-80 cars per month. We're looking to improve our online presence and streamline our inventory management.
+
+Start Time: 00:00:32
+Speaker: Sarah (Seller: True)
+Text: That's perfect. Our solution is designed for dealerships just like yours. Can you tell me about your current process for photographing and listing vehicles?
+
+Start Time: 00:00:42
+Speaker: John (Seller: False)
+Text: Well, we have a team that takes photos of each car, usually about 10-15 shots. Then they upload them to our website and various listing platforms. It's time-consuming and not very consistent.
+
+Start Time: 00:00:55
+Speaker: Sarah (Seller: True)
+Text: I see. Our AI-powered system can significantly improve that process. We can generate high-quality images, 360-degree views, and even video walkarounds from just a few input photos.
+
+Start Time: 00:01:08
+Speaker: John (Seller: False)
+Text: That sounds interesting. How does it work exactly?
+
+Start Time: 00:01:12
+Speaker: Sarah (Seller: True)
+Text: It's quite simple. You upload your photos to our platform, and our AI processes them. We can remove backgrounds, add custom showroom environments, and even generate additional angles that weren't in the original photos.
+
+Start Time: 00:01:26
+Speaker: John (Seller: False)
+Text: Impressive. What about integration with our existing systems?
+
+Start Time: 00:01:31
+Speaker: Sarah (Seller: True)
+Text: We integrate seamlessly with most major DMS and inventory management systems. Which one are you currently using?
+
+Start Time: 00:01:39
+Speaker: John (Seller: False)
+Text: We're using CDK Global.
+
+Start Time: 00:01:42
+Speaker: Sarah (Seller: True)
+Text: Perfect, we have a direct integration with CDK. This means once set up, the process will be almost entirely automated.
+
+Start Time: 00:01:50
+Speaker: John (Seller: False)
+Text: That's good to hear. Now, let's talk about pricing. What would this cost for a dealership our size?
+
+Start Time: 00:01:57
+Speaker: Sarah (Seller: True)
+Text: For your volume, we're looking at about £4 per vehicle for our basic package, which includes enhanced photos and 360-degree views. If you want to add video walkarounds, it's an additional £2 per vehicle.
+
+Start Time: 00:02:11
+Speaker: John (Seller: False)
+Text: So that would be about £6 per vehicle for the full package?
+
+Start Time: 00:02:15
+Speaker: Sarah (Seller: True)
+Text: That's correct. And if you commit to a 12-month contract, we can offer a 10% discount on that price.
+
+Start Time: 00:02:22
+Speaker: John (Seller: False)
+Text: Hmm, that's not bad. How quickly can you process the images once we upload them?
+
+Start Time: 00:02:28
+Speaker: Sarah (Seller: True)
+Text: Our system typically processes images within 15-20 minutes. For video creation, it might take up to an hour, depending on the complexity.
+
+Start Time: 00:02:37
+Speaker: John (Seller: False)
+Text: That's pretty quick. Do you offer any training or support for our team?
+
+Start Time: 00:02:42
+Speaker: Sarah (Seller: True)
+Text: Absolutely. We provide comprehensive training for your team, as well as ongoing support. Our customer success team is available 24/7 to assist with any issues.
+
+Start Time: 00:02:52
+Speaker: John (Seller: False)
+Text: Great. I'm interested, but I'd like to see some examples of your work with other dealerships first. Can you send those over?
+
+Start Time: 00:03:00
+Speaker: Sarah (Seller: True)
+Text: Of course! I'll email you a portfolio of our recent work with similar-sized dealerships right after this call. Is there anything specific you'd like to see in those examples?
+
+Start Time: 00:03:10
+Speaker: John (Seller: False)
+Text: I'd be particularly interested in seeing before and after comparisons, if you have those.
+
+Start Time: 00:03:16
+Speaker: Sarah (Seller: True)
+Text: Certainly, I'll make sure to include those. We have some great case studies that show the impact on engagement and sales after implementing our system.
+
+Start Time: 00:03:25
+Speaker: John (Seller: False)
+Text: Perfect. One last question - how long does the implementation process usually take?
+
+Start Time: 00:03:31
+Speaker: Sarah (Seller: True)
+Text: For a dealership your size, we can typically have you up and running within 2-3 weeks. This includes all the necessary integrations and training.
+
+Start Time: 00:03:40
+Speaker: John (Seller: False)
+Text: Alright, that sounds reasonable. I'll review the examples you send over and discuss with my team. Can we schedule a follow-up call for next week?
+
+Start Time: 00:03:49
+Speaker: Sarah (Seller: True)
+Text: Absolutely, John. How does next Wednesday at 2 PM sound?
+
+Start Time: 00:03:54
+Speaker: John (Seller: False)
+Text: Wednesday at 2 works for me. I'll have my IT manager join as well if that's okay.
+
+Start Time: 00:04:00
+Speaker: Sarah (Seller: True)
+Text: That's perfect. I'll send a calendar invite right after our call. Is there anything else you'd like to know before we wrap up?
+
+Start Time: 00:04:08
+Speaker: John (Seller: False)
+Text: No, I think that covers everything for now. Thanks for your time, Sarah.
+
+Start Time: 00:04:13
+Speaker: Sarah (Seller: True)
+Text: Thank you, John. I appreciate your interest and look forward to our next conversation. Have a great day!
+
+Start Time: 00:04:20
+Speaker: John (Seller: False)
+Text: You too. Goodbye.
+
+Start Time: 00:04:22
+Speaker: Sarah (Seller: True)
+Text: Goodbye, John.
+=======
+Start Time: 00:00:02
+Speaker: John (Seller: False)
+Text: Hello, can you hear me?
+
+Start Time: 00:00:04
+Speaker: Sarah (Seller: True)
+Text: Yes, John. I can hear you clearly. How are you today?
+
+Start Time: 00:00:08
+Speaker: John (Seller: False)
+Text: I'm doing well, thanks. Ready to discuss your product offering.
+
+Start Time: 00:00:13
+Speaker: Sarah (Seller: True)
+Text: Great! Before we dive in, could you tell me a bit about your current setup and what you're looking for?
+
+Start Time: 00:00:20
+Speaker: John (Seller: False)
+Text: Sure. We're a mid-sized dealership, selling about 75-80 cars per month. We're looking to improve our online presence and streamline our inventory management.
+
+Start Time: 00:00:32
+Speaker: Sarah (Seller: True)
+Text: That's perfect. Our solution is designed for dealerships just like yours. Can you tell me about your current process for photographing and listing vehicles?
+
+Start Time: 00:00:42
+Speaker: John (Seller: False)
+Text: Well, we have a team that takes photos of each car, usually about 10-15 shots. Then they upload them to our website and various listing platforms. It's time-consuming and not very consistent.
+
+Start Time: 00:00:55
+Speaker: Sarah (Seller: True)
+Text: I see. Our AI-powered system can significantly improve that process. We can generate high-quality images, 360-degree views, and even video walkarounds from just a few input photos.
+
+Start Time: 00:01:08
+Speaker: John (Seller: False)
+Text: That sounds interesting. How does it work exactly?
+
+Start Time: 00:01:12
+Speaker: Sarah (Seller: True)
+Text: It's quite simple. You upload your photos to our platform, and our AI processes them. We can remove backgrounds, add custom showroom environments, and even generate additional angles that weren't in the original photos.
+
+Start Time: 00:01:26
+Speaker: John (Seller: False)
+Text: Impressive. What about integration with our existing systems?
+
+Start Time: 00:01:31
+Speaker: Sarah (Seller: True)
+Text: We integrate seamlessly with most major DMS and inventory management systems. Which one are you currently using?
+
+Start Time: 00:01:39
+Speaker: John (Seller: False)
+Text: We're using CDK Global.
+
+Start Time: 00:01:42
+Speaker: Sarah (Seller: True)
+Text: Perfect, we have a direct integration with CDK. This means once set up, the process will be almost entirely automated.
+
+Start Time: 00:01:50
+Speaker: John (Seller: False)
+Text: That's good to hear. Now, let's talk about pricing. What would this cost for a dealership our size?
+
+Start Time: 00:01:57
+Speaker: Sarah (Seller: True)
+Text: For your volume, we're looking at about £4 per vehicle for our basic package, which includes enhanced photos and 360-degree views. If you want to add video walkarounds, it's an additional £2 per vehicle.
+
+Start Time: 00:02:11
+Speaker: John (Seller: False)
+Text: So that would be about £6 per vehicle for the full package?
+
+Start Time: 00:02:15
+Speaker: Sarah (Seller: True)
+Text: That's correct. And if you commit to a 12-month contract, we can offer a 10% discount on that price.
+
+Start Time: 00:02:22
+Speaker: John (Seller: False)
+Text: Hmm, that's not bad. How quickly can you process the images once we upload them?
+
+Start Time: 00:02:28
+Speaker: Sarah (Seller: True)
+Text: Our system typically processes images within 15-20 minutes. For video creation, it might take up to an hour, depending on the complexity.
+
+Start Time: 00:02:37
+Speaker: John (Seller: False)
+Text: That's pretty quick. Do you offer any training or support for our team?
+
+Start Time: 00:02:42
+Speaker: Sarah (Seller: True)
+Text: Absolutely. We provide comprehensive training for your team, as well as ongoing support. Our customer success team is available 24/7 to assist with any issues.
+
+Start Time: 00:02:52
+Speaker: John (Seller: False)
+Text: Great. I'm interested, but I'd like to see some examples of your work with other dealerships first. Can you send those over?
+
+Start Time: 00:03:00
+Speaker: Sarah (Seller: True)
+Text: Of course! I'll email you a portfolio of our recent work with similar-sized dealerships right after this call. Is there anything specific you'd like to see in those examples?
+
+Start Time: 00:03:10
+Speaker: John (Seller: False)
+Text: I'd be particularly interested in seeing before and after comparisons, if you have those.
+
+Start Time: 00:03:16
+Speaker: Sarah (Seller: True)
+Text: Certainly, I'll make sure to include those. We have some great case studies that show the impact on engagement and sales after implementing our system.
+
+Start Time: 00:03:25
+Speaker: John (Seller: False)
+Text: Perfect. One last question - how long does the implementation process usually take?
+
+Start Time: 00:03:31
+Speaker: Sarah (Seller: True)
+Text: For a dealership your size, we can typically have you up and running within 2-3 weeks. This includes all the necessary integrations and training.
+
+Start Time: 00:03:40
+Speaker: John (Seller: False)
+Text: Alright, that sounds reasonable. I'll review the examples you send over and discuss with my team. Can we schedule a follow-up call for next week?
+
+Start Time: 00:03:49
+Speaker: Sarah (Seller: True)
+Text: Absolutely, John. How does next Wednesday at 2 PM sound?
+
+Start Time: 00:03:54
+Speaker: John (Seller: False)
+Text: Wednesday at 2 works for me. I'll have my IT manager join as well if that's okay.
+
+Start Time: 00:04:00
+Speaker: Sarah (Seller: True)
+Text: That's perfect. I'll send a calendar invite right after our call. Is there anything else you'd like to know before we wrap up?
+
+Start Time: 00:04:08
+Speaker: John (Seller: False)
+Text: No, I think that covers everything for now. Thanks for your time, Sarah.
+
+Start Time: 00:04:13
+Speaker: Sarah (Seller: True)
+Text: Thank you, John. I appreciate your interest and look forward to our next conversation. Have a great day!
+
+Start Time: 00:04:20
+Speaker: John (Seller: False)
+Text: You too. Goodbye.
+
+Start Time: 00:04:22
+Speaker: Sarah (Seller: True)
+Text: Goodbye, John.
+>>>>>>> 20a2c28bf9de0164741cbd13648038320d43ae27
